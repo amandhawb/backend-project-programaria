@@ -1,4 +1,3 @@
-# backend-project-programaria
+# backend project programaria course
 
-
-https://programaria-backend-project-8398.onrender.com/women
+This repo contains the back-end code. You can see the API here https://programaria-backend-project-8398.onrender.com/women
